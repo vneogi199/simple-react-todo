@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/simple-react-todo/static/css/main.bce64d13.chunk.css",
+    "main.js": "/simple-react-todo/static/js/main.a71b9404.chunk.js",
+    "main.js.map": "/simple-react-todo/static/js/main.a71b9404.chunk.js.map",
+    "runtime~main.js": "/simple-react-todo/static/js/runtime~main.7a99856a.js",
+    "runtime~main.js.map": "/simple-react-todo/static/js/runtime~main.7a99856a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/simple-react-todo/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.1ea115d8.chunk.js": "/simple-react-todo/static/js/2.1ea115d8.chunk.js",
+    "static/js/2.1ea115d8.chunk.js.map": "/simple-react-todo/static/js/2.1ea115d8.chunk.js.map",
+    "index.html": "/simple-react-todo/index.html",
+    "precache-manifest.ef13ac946a6a2de372ce634317212e49.js": "/simple-react-todo/precache-manifest.ef13ac946a6a2de372ce634317212e49.js",
+    "service-worker.js": "/simple-react-todo/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/simple-react-todo/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.bce64d13.chunk.css.map": "/simple-react-todo/static/css/main.bce64d13.chunk.css.map",
+    "static/media/logo.svg": "/simple-react-todo/static/media/logo.5d5d9eef.svg"
+  }
+}
